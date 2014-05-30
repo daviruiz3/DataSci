@@ -1,0 +1,8 @@
+- [ ] http://www.win.tue.nl/~dholten/papers/forcebundles_eurovis.pdf
+- [x] create a list of data with nodes, edges and force
+- [ ] build a canvas visualization
+- [x] plot nodes
+- [ ] draw targets
+- [ ] draw nodes equidistant based on force
+- [ ] create fluidity in visualization
+- [ ] add a timed element
